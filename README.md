@@ -35,4 +35,4 @@ La mia formazione mi ha permesso di sviluppare competenze solide in ambito tecno
 
 ---
 
-✉️ Se vuoi contattarmi, scrivi pure un messaggio qui su GitHub!
+Meglio curiosi che intelligente !
