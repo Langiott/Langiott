@@ -1,14 +1,12 @@
 
 ## 👋 Ciao, sono Andrea Langiotti 
 
-Sono un **Ingegnere informatico e dell’automazione**, attualmente laureando magistrale.  
-La mia passione è orientata principalmente verso l’**informatica funzionale** e tutto ciò che riguarda i dati e l’intelligenza artificiale.  
-Mi interessano in particolare:  
-- **Big Data**  
-- **Computer Vision**  
-- **Data Science & Data Analysis**  
-- **Reti Neurali ed Elaborazione Immagini**  
-Al di fuori dello studio e del lavoro, il mio più grande hobby è l’**astrofisica**, con un interesse speciale per i **buchi neri**.  
+Sono un ingegnere informatico e dell’automazione, attualmente iscritto alla laurea magistrale.
+La mia formazione mi ha permesso di sviluppare competenze solide in ambito tecnologico, ma ciò che mi appassiona maggiormente è l’informatica funzionale e, più in generale, tutto ciò che riguarda il mondo dei dati e dell’intelligenza artificiale.
+
+Nel mio percorso di studio e ricerca mi sono avvicinato a diversi ambiti, tra cui l’analisi e la gestione di Big Data, le applicazioni di Computer Vision e le tecniche di Data Science e Data Analysis. Particolare interesse riveste per me lo sviluppo e l’addestramento di reti neurali e i metodi di elaborazione delle immagini, strumenti sempre più centrali per affrontare problemi complessi e reali.
+
+Accanto al mio impegno accademico e professionale coltivo una grande passione per l’astrofisica, con un’attenzione speciale rivolta ai buchi neri, che considero uno dei fenomeni più affascinanti e misteriosi dell’universo.
 
 
 <p align="center">
@@ -22,29 +20,31 @@ Al di fuori dello studio e del lavoro, il mio più grande hobby è l’**astrofi
 ## 🛠️ Skills  
 
 **Programming Languages**  
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)  
-![C++](https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white)  
-![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white)  
-![R](https://img.shields.io/badge/R-276DC3?logo=r&logoColor=white)  
-![MATLAB](https://img.shields.io/badge/MATLAB-FF8000?logo=mathworks&logoColor=white)  
-![LaTeX](https://img.shields.io/badge/LaTeX-008080?logo=latex&logoColor=white)  
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C-00599C?logo=c&logoColor=white"/>
+  <img src="https://img.shields.io/badge/R-276DC3?logo=r&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MATLAB-FF8000?logo=mathworks&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LaTeX-008080?logo=latex&logoColor=white"/>
+</p>
 
 **Frameworks & Tools**  
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white)  
-![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white)  
-![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?logo=googlecolab&logoColor=white)  
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?logo=visualstudiocode&logoColor=white)  
-![Anaconda](https://img.shields.io/badge/Anaconda-44A833?logo=anaconda&logoColor=white)  
-![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)  
+<p align="center">
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Google%20Colab-F9AB00?logo=googlecolab&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?logo=visualstudiocode&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Anaconda-44A833?logo=anaconda&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white"/>
+</p>
 
 **Microcontrollers & IoT**  
-![Arduino](https://img.shields.io/badge/Arduino-00979D?logo=arduino&logoColor=white)  
-![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?logo=raspberrypi&logoColor=white)  
+<p align="center">
+  <img src="https://img.shields.io/badge/Arduino-00979D?logo=arduino&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Raspberry%20Pi-A22846?logo=raspberrypi&logoColor=white"/>
+</p>
 
----
-
-## 🌱 Attualmente
-Sto approfondendo tecniche di **machine learning**, **analisi di grandi dataset** e **computer vision**, con l’obiettivo di integrare la mia formazione ingegneristica con applicazioni reali nel mondo dell’IA e dell’automazione.
 
 ---
 
