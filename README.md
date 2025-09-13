@@ -16,11 +16,10 @@ Accanto al mio impegno accademico e professionale coltivo una grande passione pe
 
 
 ---
-
 ## 🛠️ Skills  
 
 **Programming Languages**  
-<p align="center">
+<p>
   <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white"/>
   <img src="https://img.shields.io/badge/C-00599C?logo=c&logoColor=white"/>
@@ -30,7 +29,7 @@ Accanto al mio impegno accademico e professionale coltivo una grande passione pe
 </p>
 
 **Frameworks & Tools**  
-<p align="center">
+<p>
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white"/>
   <img src="https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white"/>
   <img src="https://img.shields.io/badge/Google%20Colab-F9AB00?logo=googlecolab&logoColor=white"/>
@@ -40,7 +39,7 @@ Accanto al mio impegno accademico e professionale coltivo una grande passione pe
 </p>
 
 **Microcontrollers & IoT**  
-<p align="center">
+<p>
   <img src="https://img.shields.io/badge/Arduino-00979D?logo=arduino&logoColor=white"/>
   <img src="https://img.shields.io/badge/Raspberry%20Pi-A22846?logo=raspberrypi&logoColor=white"/>
 </p>
