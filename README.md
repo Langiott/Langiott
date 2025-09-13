@@ -3,33 +3,13 @@
 
 Sono un **Ingegnere informatico e dell’automazione**, attualmente laureando magistrale.  
 La mia passione è orientata principalmente verso l’**informatica funzionale** e tutto ciò che riguarda i dati e l’intelligenza artificiale.  
-
 Mi interessano in particolare:  
 - **Big Data**  
 - **Computer Vision**  
 - **Data Science & Data Analysis**  
 - **Reti Neurali ed Elaborazione Immagini**  
-
 Al di fuori dello studio e del lavoro, il mio più grande hobby è l’**astrofisica**, con un interesse speciale per i **buchi neri**.  
 
-
-## 📈 GitHub Stats
-![Le tue statistiche](https://github-readme-stats.vercel.app/api?username=Langiott&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Langiott&layout=compact&theme=radical)
-
-# 👋 Ciao, sono Andrea Langiotti 
-
-Sono un **Ingegnere informatico e dell’automazione**, attualmente laureando magistrale.  
-La mia passione è orientata principalmente verso l’**informatica funzionale** e tutto ciò che riguarda i dati e l’intelligenza artificiale.  
-
-Mi interessano in particolare:  
-- **Big Data**  
-- **Computer Vision**  
-- **Data Science & Data Analysis**  
-- **Reti Neurali ed Elaborazione Immagini**  
-
-Al di fuori dello studio e del lavoro, il mio più grande hobby è l’**astrofisica**, con un interesse speciale per i **buchi neri**.  
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Langiott&show_icons=true&theme=radical" height="150"/>
