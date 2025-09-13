@@ -1,6 +1,17 @@
 
 ## 👋 Ciao, sono Andrea Langiotti 
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠠⣰⣿⣿⣒⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+
+<div style="display: flex; align-items: flex-start; gap: 20px;">
+
+<div style="flex: 1;">
+Sono un ingegnere informatico e dell’automazione, attualmente iscritto alla laurea magistrale.
+La mia formazione mi ha permesso di sviluppare competenze solide in ambito tecnologico, ma ciò che mi appassiona maggiormente è l’informatica funzionale e, più in generale, tutto ciò che riguarda il mondo dei dati e dell’intelligenza artificiale.Nel mio percorso di studio e ricerca mi sono avvicinato a diversi ambiti, tra cui l’analisi e la gestione di Big Data, le applicazioni di Computer Vision e le tecniche di Data Science e Data Analysis. Particolare interesse riveste per me lo sviluppo e l’addestramento di reti neurali e i metodi di elaborazione delle immagini, strumenti sempre più centrali per affrontare problemi complessi e reali.Accanto al mio impegno accademico e professionale coltivo una grande passione per l’astrofisica, con un’attenzione speciale rivolta ai buchi neri, che considero uno dei fenomeni più affascinanti e misteriosi dell’universo.
+</div>
+
+<div style="flex: 1;">
+<pre>
+⠀⠠⣰⣿⣿⣒⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⡝⢿⣿⣽⢿⠆⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠐⣤⣽⣷⠃⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣀⣸⣿⣭⣭⣄⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
@@ -32,14 +43,11 @@
 ⠀⠀⠀⠀⠀⠀⠀⣸⣿⠀⠀⠀⠀⠀⠀⠀⠀⡟⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⣧⣼⣟⣾⣿⢻⣎⡷⠟⠁⠀⠀⠀⠀⠀⠀⠀
 ⠀⠀⠀⠀⠀⠀⠀⣼⣿⡄⠀⠀⠀⠀⠀⠀⣠⡇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠚⣷⣿⡿⠶⠚⠉⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀
 ⠀⠀⠀⠀⠀⠀⠀⠸⣿⣿⡀⠀⢤⣀⣤⣾⣿⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
-⠀⠀⠀⠀⠀⠀⠀⠀⠙⢮⣉⠒⠢⣽⡿⠛⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
-        ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
-Sono un ingegnere informatico e dell’automazione, attualmente iscritto alla laurea magistrale.
-La mia formazione mi ha permesso di sviluppare competenze solide in ambito tecnologico, ma ciò che mi appassiona maggiormente è l’informatica funzionale e, più in generale, tutto ciò che riguarda il mondo dei dati e dell’intelligenza artificiale.
+⠀⠀⠀⠀⠀⠀⠀⠀⠙⢮⣉⠒⠢⣽⡿⠛⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀       ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+</pre>
+</div>
 
-Nel mio percorso di studio e ricerca mi sono avvicinato a diversi ambiti, tra cui l’analisi e la gestione di Big Data, le applicazioni di Computer Vision e le tecniche di Data Science e Data Analysis. Particolare interesse riveste per me lo sviluppo e l’addestramento di reti neurali e i metodi di elaborazione delle immagini, strumenti sempre più centrali per affrontare problemi complessi e reali.
-
-Accanto al mio impegno accademico e professionale coltivo una grande passione per l’astrofisica, con un’attenzione speciale rivolta ai buchi neri, che considero uno dei fenomeni più affascinanti e misteriosi dell’universo.
+</div>
 
 
 <p align="center">
