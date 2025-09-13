@@ -31,6 +31,10 @@ Mi interessano in particolare:
 
 Al di fuori dello studio e del lavoro, il mio più grande hobby è l’**astrofisica**, con un interesse speciale per i **buchi neri**.  
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Langiott&show_icons=true&theme=radical" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Langiott&layout=compact&theme=radical" height="150"/>
+</p>
 
 
 ---
