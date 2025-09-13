@@ -1,8 +1,5 @@
 
 ## 👋 Ciao, sono Andrea Langiotti
----
-## 🛠️ Skills  
-
 **Programming Languages**  
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white"/>
@@ -28,8 +25,5 @@
   <img src="https://img.shields.io/badge/Arduino-00979D?logo=arduino&logoColor=white"/>
   <img src="https://img.shields.io/badge/Raspberry%20Pi-A22846?logo=raspberrypi&logoColor=white"/>
 </p>
-
-
----
 
 Meglio curiosi che intelligente !
