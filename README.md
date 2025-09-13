@@ -1,14 +1,14 @@
 ## Hi there 👋
 
 ## 📈 GitHub Stats
-![Le tue statistiche](https://github-readme-stats.vercel.app/api?username=TUO_USERNAME&show_icons=true&theme=radical)
+![Le tue statistiche](https://github-readme-stats.vercel.app/api?username=Langiott&show_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TUO_USERNAME&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Langiott&layout=compact&theme=radical)
 
 ## 🏆 GitHub Trophies
-![Trophies](https://github-profile-trophy.vercel.app/?username=TUO_USERNAME&theme=gruvbox)
+![Trophies](https://github-profile-trophy.vercel.app/?username=Langiott&theme=gruvbox)
 
-# 👋 Ciao, sono Zeb  
+# 👋 Ciao, sono Andrea Langiotti 
 
 Sono un **Ingegnere informatico e dell’automazione**, attualmente laureando magistrale.  
 La mia passione è orientata principalmente verso l’**informatica funzionale** e tutto ciò che riguarda i dati e l’intelligenza artificiale.  
@@ -21,15 +21,7 @@ Mi interessano in particolare:
 
 Al di fuori dello studio e del lavoro, il mio più grande hobby è l’**astrofisica**, con un interesse speciale per i **buchi neri**.  
 
----
 
-## 📈 GitHub Stats
-![Stats](https://github-readme-stats.vercel.app/api?username=TUO_USERNAME&show_icons=true&theme=radical)
-
----
-
-## 🏆 GitHub Trophies
-![Trophies](https://github-profile-trophy.vercel.app/?username=TUO_USERNAME&theme=gruvbox)
 
 ---
 
