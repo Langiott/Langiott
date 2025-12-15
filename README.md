@@ -1,4 +1,5 @@
 👋 Ciao, sono Andrea Langiotti
+
 💻 Programming Languages
 <p> <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white"/> <img src="https://img.shields.io/badge/C-00599C?logo=c&logoColor=white"/> <img src="https://img.shields.io/badge/R-276DC3?logo=r&logoColor=white"/> <img src="https://img.shields.io/badge/MATLAB-FF8000?logo=mathworks&logoColor=white"/> <img src="https://img.shields.io/badge/LaTeX-008080?logo=latex&logoColor=white"/> </p>
 🧠 AI, Data Science & Engineering
