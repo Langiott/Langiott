@@ -3,7 +3,7 @@
     <img src="https://raw.githubusercontent.com/Langiott/Langiott/main/animation2.svg"
          width="28"
          style="margin-right: 6px;" />
-    Ciao, sono Andrea Langiotti
+    Ciao, sono Langiott
   </span>
 </h2>
 
