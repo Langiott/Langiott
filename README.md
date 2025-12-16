@@ -1,16 +1,11 @@
 👋 Ciao, sono Andrea Langiotti
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?
-  font=Fira+Code&
-  size=22&
-  duration=3000&
-  pause=1000&
-  color=58A6FF&
-  center=true&
-  vCenter=true&
-  width=600&
-  lines=Machine+Learning+%26+AI;Data+%26+Image+Processing;Curiosity+over+Intelligence" />
-</p>
+<img src="https://capsule-render.vercel.app/api?
+type=waving&
+color=gradient&
+height=180&
+text=Andrea%20Langiotti&
+fontSize=40" />
+
 
 
 Ho una laurea magistrale in **Ingegneria Informatica e dell’Automazione**. Ho studiato presso il Politecnico delle Marche ad Ancona. Mi occupo di **elaborazione dei dati e delle immagini**, con un forte interesse per l’intelligenza artificiale e i sistemi di analisi avanzata. Sono appassionato di **astronomia**, in particolare dello studio dello **spazio e dei buchi neri**. Il mio motto è: *meglio curiosi che intelligenti*.
