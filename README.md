@@ -1,8 +1,8 @@
 <h2>
-  👋 Ciao, sono Andrea Langiotti
   <img src="https://raw.githubusercontent.com/Langiott/Langiott/main/futuristic_terminal.svg"
        width="28"
-       style="vertical-align: middle;" />
+       style="vertical-align: middle; margin-right: 6px;" />
+  Ciao, sono Andrea Langiotti
 </h2>
 
 Ho una laurea magistrale in **Ingegneria Informatica e dell’Automazione** conseguita presso il **Politecnico delle Marche (Ancona)**.  
