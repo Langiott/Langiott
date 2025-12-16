@@ -1,6 +1,6 @@
 👋 Ciao, sono Andrea Langiotti
 
-![Animated Code](https://raw.githubusercontent.com/Langiott/Langiott/main/animated_code.svg)
+![Animation](https://raw.githubusercontent.com/Langiott/Langiott/main/animation.gif)
 
 
 
