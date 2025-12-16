@@ -1,8 +1,10 @@
 <h2>
-  <img src="https://raw.githubusercontent.com/Langiott/Langiott/main/animation2.svg"
-       width="28"
-       style="vertical-align: middle; margin-right: 6px;" />
-  Ciao, sono Andrea Langiotti
+  <span style="display: inline-flex; align-items: center;">
+    <img src="https://raw.githubusercontent.com/Langiott/Langiott/main/animation2.svg"
+         width="28"
+         style="margin-right: 6px;" />
+    Ciao, sono Andrea Langiotti
+  </span>
 </h2>
 
 Ho una laurea magistrale in **Ingegneria Informatica e dell’Automazione** conseguita presso il **Politecnico delle Marche (Ancona)**.  
