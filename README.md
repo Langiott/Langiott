@@ -1,6 +1,6 @@
 👋 Ciao, sono Andrea Langiotti
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Langiott/Langiott/main/banner.svg" />
+  <img src="https://media.giphy.com/media/…/giphy.gif" width="100%" />
 </p>
 
 
