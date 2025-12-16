@@ -1,10 +1,45 @@
 👋 Ciao, sono Andrea Langiotti
-<img src="https://capsule-render.vercel.app/api?
-type=waving&
-color=gradient&
-height=180&
-text=Andrea%20Langiotti&
-fontSize=40" />
+<svg viewBox="0 0 900 260" xmlns="http://www.w3.org/2000/svg">
+  <rect width="900" height="260" rx="18" fill="#0d1117"/>
+
+  <!-- Header -->
+  <circle cx="30" cy="30" r="6" fill="#ff5f56"/>
+  <circle cx="50" cy="30" r="6" fill="#ffbd2e"/>
+  <circle cx="70" cy="30" r="6" fill="#27c93f"/>
+
+  <!-- Testo terminale -->
+  <text x="40" y="90" font-family="monospace"
+        font-size="20" fill="#58a6ff">
+    $ python train_model.py
+  </text>
+
+  <text x="40" y="130" font-family="monospace"
+        font-size="18" fill="#c9d1d9">
+    Loading dataset...
+  </text>
+
+  <text x="40" y="165" font-family="monospace"
+        font-size="18" fill="#c9d1d9">
+    Training neural network
+  </text>
+
+  <!-- Cursore -->
+  <rect x="350" y="148" width="10" height="20" fill="#58a6ff">
+    <animate attributeName="opacity"
+             values="1;0;1"
+             dur="1s"
+             repeatCount="indefinite"/>
+  </rect>
+
+  <!-- Footer -->
+  <text x="50%" y="230" text-anchor="middle"
+        font-family="monospace"
+        font-size="16"
+        fill="#8b949e">
+    better curious than intelligent
+  </text>
+</svg>
+
 
 
 
