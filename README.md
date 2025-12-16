@@ -1,5 +1,5 @@
 <h2>
-  <img src="https://raw.githubusercontent.com/Langiott/Langiott/main/futuristic_terminal.svg"
+  <img src="https://raw.githubusercontent.com/Langiott/Langiott/main/animation2.svg"
        width="28"
        style="vertical-align: middle; margin-right: 6px;" />
   Ciao, sono Andrea Langiotti
