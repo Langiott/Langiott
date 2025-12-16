@@ -6,9 +6,7 @@
     Ciao, sono Andrea Langiotti
   </span>
 </h2>
-Laurea magistrale in Ingegneria Informatica e dell’Automazione al Politecnico delle Marche (Ancona). Lavoro con dati e immagini, spesso accompagnata dall' intelligenza artificiale, machine learning e deep learning, che negli anni ho cercato di capire cosa siano davvero.
-
-Inizialmmento ho svolto studi di automazione e robotica. Cercando di risolvere equazioni differenziali di Laplace se stabili.
+Laurea magistrale in Ingegneria Informatica e dell’Automazione al Politecnico delle Marche (Ancona). Lavoro con dati e immagini, spesso accompagnata dall' intelligenza artificiale, machine learning e deep learning, che negli anni ho cercato di capire cosa siano davvero. Inizialmento ho svolto studi di automazione e robotica. Cercando di risolvere equazioni differenziali di Laplace se stabili.
 
 Per poi cambiare interessi e dedicarmi ai modelli avanzati, alcuni predittivi, altri di classificazione, altri ancora basati sulle reti neurali artificiali. Quando non scrivo codice, penso allo spazio, ai buchi neri e a quanto sia meglio essere curiosi che intelligenti.
 
