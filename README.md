@@ -1,9 +1,6 @@
 👋 Ciao, sono Andrea Langiotti
-Sono laureato magistrale in **Ingegneria Informatica e dell’Automazione**.  
-Mi occupo di **elaborazione dei dati e delle immagini**, con un forte interesse per l’intelligenza artificiale e i sistemi di analisi avanzata.  
 
-Sono appassionato di **astronomia**, in particolare dello studio dello **spazio e dei buchi neri**.  
-Il mio motto è: *meglio curiosi che intelligenti*.
+Sono laureato magistrale in **Ingegneria Informatica e dell’Automazione**. Mi occupo di **elaborazione dei dati e delle immagini**, con un forte interesse per l’intelligenza artificiale e i sistemi di analisi avanzata. Sono appassionato di **astronomia**, in particolare dello studio dello **spazio e dei buchi neri**. Il mio motto è: *meglio curiosi che intelligenti*.
 
 
 💻 Programming Languages
