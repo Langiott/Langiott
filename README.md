@@ -1,4 +1,10 @@
 👋 Ciao, sono Andrea Langiotti
+Sono laureato magistrale in **Ingegneria Informatica e dell’Automazione**.  
+Mi occupo di **elaborazione dei dati e delle immagini**, con un forte interesse per l’intelligenza artificiale e i sistemi di analisi avanzata.  
+
+Sono appassionato di **astronomia**, in particolare dello studio dello **spazio e dei buchi neri**.  
+Il mio motto è: *meglio curiosi che intelligenti*.
+
 
 💻 Programming Languages
 <p> <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white"/> <img src="https://img.shields.io/badge/C-00599C?logo=c&logoColor=white"/> <img src="https://img.shields.io/badge/R-276DC3?logo=r&logoColor=white"/> <img src="https://img.shields.io/badge/MATLAB-FF8000?logo=mathworks&logoColor=white"/> <img src="https://img.shields.io/badge/LaTeX-008080?logo=latex&logoColor=white"/> </p>
