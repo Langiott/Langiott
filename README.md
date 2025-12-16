@@ -1,12 +1,16 @@
-👋 Ciao, sono Andrea Langiotti
+<h2>
+  👋 Ciao, sono Andrea Langiotti
+  <img src="https://raw.githubusercontent.com/Langiott/Langiott/main/futuristic_terminal.svg"
+       width="28"
+       style="vertical-align: middle;" />
+</h2>
 
-![Animated Code](https://raw.githubusercontent.com/Langiott/Langiott/main/futuristic_terminal.svg)
+Ho una laurea magistrale in **Ingegneria Informatica e dell’Automazione** conseguita presso il **Politecnico delle Marche (Ancona)**.  
+Mi occupo di **elaborazione dei dati e delle immagini**, con un forte interesse per l’**intelligenza artificiale** e i sistemi di analisi avanzata.
 
+Sono appassionato di **astronomia**, in particolare dello **spazio e dei buchi neri**.  
+Il mio motto è: *meglio curiosi che intelligenti*.
 
-
-
-
-Ho una laurea magistrale in **Ingegneria Informatica e dell’Automazione**. Ho studiato presso il Politecnico delle Marche ad Ancona. Mi occupo di **elaborazione dei dati e delle immagini**, con un forte interesse per l’intelligenza artificiale e i sistemi di analisi avanzata. Sono appassionato di **astronomia**, in particolare dello studio dello **spazio e dei buchi neri**. Il mio motto è: *meglio curiosi che intelligenti*.
 
 
 💻 Programming Languages
