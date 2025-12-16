@@ -6,13 +6,7 @@
     Ciao, sono Andrea Langiotti
   </span>
 </h2>
-
-Ho una laurea magistrale in **Ingegneria Informatica e dell’Automazione** conseguita presso il **Politecnico delle Marche (Ancona)**.  
-Mi occupo di **elaborazione dei dati e delle immagini**, con un forte interesse per l’**intelligenza artificiale** e i sistemi di analisi avanzata.
-
-Sono appassionato di **astronomia**, in particolare dello **spazio e dei buchi neri**.  
-Il mio motto è: *meglio curiosi che intelligenti*.
-
+Laurea magistrale in Ingegneria Informatica e dell’Automazione al Politecnico delle Marche (Ancona). Lavoro con dati e immagini, spesso insieme all’intelligenza artificiale, cercando di capire cosa succede dentro ai modelli, alcuni predittivi, altri basati con le reti neurali. Quando non scrivo codice, penso allo spazio, ai buchi neri e a quanto sia meglio essere curiosi che intelligenti.
 
 
 💻 Programming Languages
