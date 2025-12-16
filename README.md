@@ -40,6 +40,11 @@
   </text>
 </svg>
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Langiott/Langiott/main/futuristic_terminal.svg" />
+</p>
+
+
 
 
 
