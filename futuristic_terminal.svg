@@ -1,7 +1,7 @@
 <svg xmlns="http://www.w3.org/2000/svg"
      viewBox="0 0 200 200"
-     width="100"
-     height="100">
+     width="50"
+     height="50">
   <path fill="none" d="M0 0h200v200H0z"></path>
 
   <path fill="none" stroke-linecap="round" stroke="#FF156D"
@@ -26,3 +26,4 @@
       repeatCount="indefinite"/>
   </path>
 </svg>
+
