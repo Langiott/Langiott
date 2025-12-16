@@ -1,6 +1,6 @@
 👋 Ciao, sono Andrea Langiotti
 
-![Animated Code](https://raw.githubusercontent.com/Langiott/Langiott/main/futuristic_terminal.svg?v=2)
+![Animated Code](https://raw.githubusercontent.com/Langiott/Langiott/main/futuristic_terminal.svg)
 
 
 
