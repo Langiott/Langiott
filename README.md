@@ -13,17 +13,102 @@ Laurea magistrale in Ingegneria Informatica e dell’Automazione al Politecnico 
 Inizialmente ho svolto studi di automazione e robotica, risolvendo equazioni differenziali di Laplace se stabili. Per poi cambiare interesse e dedicarmi ai modelli avanzati, alcuni predittivi, altri di classificazione, altri ancora basati sulle reti neurali artificiali. Quando non scrivo codice, penso allo spazio, ai buchi neri e a quanto sia meglio essere curiosi che intelligenti.
 
 
-💻 Programming Languages
-<p> <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white"/> <img src="https://img.shields.io/badge/C-00599C?logo=c&logoColor=white"/> <img src="https://img.shields.io/badge/R-276DC3?logo=r&logoColor=white"/> <img src="https://img.shields.io/badge/MATLAB-FF8000?logo=mathworks&logoColor=white"/> <img src="https://img.shields.io/badge/LaTeX-008080?logo=latex&logoColor=white"/> </p>
-🧠 AI, Data Science & Engineering
-<p> <img src="https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white"/> <img src="https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white"/> <img src="https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white"/> <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?logo=scikitlearn&logoColor=white"/> </p>
-🛠️ Development & DevOps Tools
-<p> <img src="https://img.shields.io/badge/VS%20Code-007ACC?logo=visualstudiocode&logoColor=white"/> <img src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white"/> <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white"/> <img src="https://img.shields.io/badge/Anaconda-44A833?logo=anaconda&logoColor=white"/> <img src="https://img.shields.io/badge/Google%20Colab-F9AB00?logo=googlecolab&logoColor=white"/> <img src="https://img.shields.io/badge/Spyder-FF0000?logo=spyderide&logoColor=white"/> <img src="https://img.shields.io/badge/Eclipse-2C2255?logo=eclipseide&logoColor=white"/> </p>
-📊 Data Analysis & Business Intelligence
-<p> <img src="https://img.shields.io/badge/Power%20BI-F2C811?logo=powerbi&logoColor=black"/> <img src="https://img.shields.io/badge/Qlik-009848?logo=qlik&logoColor=white"/> <img src="https://img.shields.io/badge/Tableau-E97627?logo=tableau&logoColor=white"/> <img src="https://img.shields.io/badge/Excel-217346?logo=microsoftexcel&logoColor=white"/> </p>
-📝 Documentation & Productivity
-<p> <img src="https://img.shields.io/badge/Microsoft%20Word-2B579A?logo=microsoftword&logoColor=white"/> <img src="https://img.shields.io/badge/PowerPoint-B7472A?logo=microsoftpowerpoint&logoColor=white"/> <img src="https://img.shields.io/badge/LaTeX-008080?logo=latex&logoColor=white"/> </p>
-🔌 Microcontrollers & Measurement
-<p> <img src="https://img.shields.io/badge/Arduino-00979D?logo=arduino&logoColor=white"/> <img src="https://img.shields.io/badge/Raspberry%20Pi-A22846?logo=raspberrypi&logoColor=white"/> <img src="https://img.shields.io/badge/LabVIEW-FFDB00?logo=ni&logoColor=black"/> </p>
+## 💻 Programming Languages
+
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C-00599C?logo=c&logoColor=white"/>
+  <img src="https://img.shields.io/badge/R-276DC3?logo=r&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MATLAB-FF8000?logo=mathworks&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LaTeX-008080?logo=latex&logoColor=white"/>
+</p>
+
+## 🧠 AI, Data Science & Engineering
+
+<p>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?logo=scikitlearn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?logo=opencv&logoColor=white"/>
+</p>
+
+## 🌐 Web Development
+
+<p>
+  <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Express-000000?logo=express&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?logo=tailwindcss&logoColor=white"/>
+  <img src="https://img.shields.io/badge/shadcn%2Fui-000000?logo=shadcnui&logoColor=white"/>
+</p>
+
+## 🗄️ Database & ORM
+
+<p>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Prisma-2D3748?logo=prisma&logoColor=white"/>
+  <img src="https://img.shields.io/badge/pgAdmin-336791?logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/DBeaver-382923?logo=dbeaver&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SchemaSpy-555555?logo=databricks&logoColor=white"/>
+  <img src="https://img.shields.io/badge/dbdiagram.io-1E88E5?logo=diagramsdotnet&logoColor=white"/>
+  <img src="https://img.shields.io/badge/DbSchema-444444?logo=databricks&logoColor=white"/>
+</p>
+
+## 🔐 Authentication & API
+
+<p>
+  <img src="https://img.shields.io/badge/JWT-000000?logo=jsonwebtokens&logoColor=white"/>
+  <img src="https://img.shields.io/badge/bcrypt-003B57?logo=letsencrypt&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Supabase%20Auth-3ECF8E?logo=supabase&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white"/>
+</p>
+
+## 🛠️ Development & DevOps Tools
+
+<p>
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?logo=visualstudiocode&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker%20Compose-2496ED?logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Nginx-009639?logo=nginx&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Anaconda-44A833?logo=anaconda&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Google%20Colab-F9AB00?logo=googlecolab&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Spyder-FF0000?logo=spyderide&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Eclipse-2C2255?logo=eclipseide&logoColor=white"/>
+</p>
+
+## 📊 Data Analysis & Business Intelligence
+
+<p>
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?logo=powerbi&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Qlik-009848?logo=qlik&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Tableau-E97627?logo=tableau&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Excel-217346?logo=microsoftexcel&logoColor=white"/>
+</p>
+
+## 📝 Documentation & Productivity
+
+<p>
+  <img src="https://img.shields.io/badge/Microsoft%20Word-2B579A?logo=microsoftword&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PowerPoint-B7472A?logo=microsoftpowerpoint&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LaTeX-008080?logo=latex&logoColor=white"/>
+  <img src="https://img.shields.io/badge/draw.io-F08705?logo=diagramsdotnet&logoColor=white"/>
+</p>
+
+## 🔌 Microcontrollers & Measurement
+
+<p>
+  <img src="https://img.shields.io/badge/Arduino-00979D?logo=arduino&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Raspberry%20Pi-A22846?logo=raspberrypi&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LabVIEW-FFDB00?logo=ni&logoColor=black"/>
+</p>
 
 Meglio curiosi che intelligente !
