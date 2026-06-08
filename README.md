@@ -111,4 +111,14 @@ Inizialmente ho svolto studi di automazione e robotica, risolvendo equazioni dif
   <img src="https://img.shields.io/badge/LabVIEW-FFDB00?logo=ni&logoColor=black"/>
 </p>
 
+## 🤖 AI Assistants & LLMs
+
+<p>
+  <img src="https://img.shields.io/badge/Claude-D97757?logo=claude&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Claude%20Code-D97757?logo=claude&logoColor=white"/>
+  <img src="https://img.shields.io/badge/ChatGPT-74AA9C?logo=openai&logoColor=white"/>
+  <img src="https://img.shields.io/badge/DeepSeek-4D6BFE?logo=deepseek&logoColor=white"/>
+  <img src="https://img.shields.io/badge/BERT-EE4C2C?logo=huggingface&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Rasa-5A17EE?logo=rasa&logoColor=white"/>
+</p>
 Meglio curiosi che intelligente !
