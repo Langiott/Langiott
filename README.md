@@ -30,11 +30,15 @@ Inizialmente ho svolto studi di automazione e robotica, risolvendo equazioni dif
 
 <p>
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Keras-D00000?logo=keras&logoColor=white"/>
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white"/>
   <img src="https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white"/>
   <img src="https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white"/>
   <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?logo=scikitlearn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/OpenCV-5C3EE8?logo=opencv&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?logo=huggingface&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=white"/>
 </p>
 
 ## 🌐 Web Development
@@ -44,6 +48,7 @@ Inizialmente ho svolto studi di automazione e robotica, risolvendo equazioni dif
   <img src="https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=white"/>
   <img src="https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white"/>
   <img src="https://img.shields.io/badge/Express-000000?logo=express&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?logo=supabase&logoColor=white"/>
   <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?logo=tailwindcss&logoColor=white"/>
   <img src="https://img.shields.io/badge/shadcn%2Fui-000000?logo=shadcnui&logoColor=white"/>
 </p>
@@ -52,6 +57,9 @@ Inizialmente ho svolto studi di automazione e robotica, risolvendo equazioni dif
 
 <p>
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?logo=microsoftsqlserver&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Neo4j-4581C3?logo=neo4j&logoColor=white"/>
   <img src="https://img.shields.io/badge/Prisma-2D3748?logo=prisma&logoColor=white"/>
   <img src="https://img.shields.io/badge/pgAdmin-336791?logo=postgresql&logoColor=white"/>
   <img src="https://img.shields.io/badge/DBeaver-382923?logo=dbeaver&logoColor=white"/>
@@ -73,9 +81,19 @@ Inizialmente ho svolto studi di automazione e robotica, risolvendo equazioni dif
 
 <p>
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?logo=visualstudiocode&logoColor=white"/>
+  <img src="https://img.shields.io/badge/WSL-4D4D4D?logo=linux&logoColor=white"/>
   <img src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white"/>
   <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker%20Desktop-2496ED?logo=docker&logoColor=white"/>
   <img src="https://img.shields.io/badge/Docker%20Compose-2496ED?logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/pm2-2B037A?logo=pm2&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Certbot-003A70?logo=letsencrypt&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Hyper--V-0078D6?logo=windows&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VirtualBox-183A61?logo=virtualbox&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git%20Bash-F05032?logo=gnubash&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PuTTY-4B0082?logo=putty&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Obsidian-7C3AED?logo=obsidian&logoColor=white"/>
+  <img src="https://img.shields.io/badge/n8n-EA4B71?logo=n8n&logoColor=white"/>
   <img src="https://img.shields.io/badge/Nginx-009639?logo=nginx&logoColor=white"/>
   <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white"/>
@@ -100,6 +118,7 @@ Inizialmente ho svolto studi di automazione e robotica, risolvendo equazioni dif
   <img src="https://img.shields.io/badge/Microsoft%20Word-2B579A?logo=microsoftword&logoColor=white"/>
   <img src="https://img.shields.io/badge/PowerPoint-B7472A?logo=microsoftpowerpoint&logoColor=white"/>
   <img src="https://img.shields.io/badge/LaTeX-008080?logo=latex&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Markdown-000000?logo=markdown&logoColor=white"/>
   <img src="https://img.shields.io/badge/draw.io-F08705?logo=diagramsdotnet&logoColor=white"/>
 </p>
 
