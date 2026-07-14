@@ -22,6 +22,7 @@ Inizialmente ho svolto studi di automazione e robotica, risolvendo equazioni dif
   <img src="https://img.shields.io/badge/R-276DC3?logo=r&logoColor=white"/>
   <img src="https://img.shields.io/badge/MATLAB-FF8000?logo=mathworks&logoColor=white"/>
   <img src="https://img.shields.io/badge/LaTeX-008080?logo=latex&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AMPL-1B4F91?logoColor=white"/>
 </p>
 
 ## 🧠 AI, Data Science & Engineering
