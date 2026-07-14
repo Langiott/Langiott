@@ -7,6 +7,48 @@
   </span>
 </h2>
 
+
+
+</div>
+
+```text
+                          tt
+                       ;;tfLL1
+                  ::;;;::::::;i1tfLGCff
+               :,,,:,,,,,:,,,,,.,,,:;i1L1
+            ,:,,..,,,,,,,,,,,,,,::,,,,,:ii
+          :,,,,:,,:::::,,,:::,,,,,,,,,:,,:11              tuonome@github
+         :,,,::,:;ii11111ii;;;;:,,,,,::::,,:;             ──────────────────────────────────
+       :;,,.;tffffCG0000000GCLft1ii;;::,,,::;i            OS ..........: Windows 11, Android
+      ::.,,10@88@@@@@@@@@@@@@@88800GCLf1:,:::i            Uptime ......: 20+ anni
+     :::itG@@@@@@@@@@@@@@@@@@@@@@@@@@@80Ct::;i            Host ........: La Tua Azienda
+     iiC8@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@880f::i            Location ....: Fermo, Italia 🇮🇹
+     tG@@@@@@8GGGGGG08@@@@@@@@@@@@@@@@@8888L;i            IDE .........: VSCode
+     C@@@88GffLCCCLLCG0G8@@@@@@@@@@8@@@@@88011
+    it11iiiiiiiii11tfC08@@@@@@000LfttfLL8@80tt:           Languages....: Python, JavaScript
+  Lff1;;;i;;;:i;:,,,::iff11tfCCLtiiiiiii1CG0fti           Real.........: Italiano, English
+ C@@@@t:ii;:::,,,,,,,,,;iCGLi::...,,,::;;::;iii
+ 0@@@@C,1ii;::,.......:;t@@0;;,....,,,,,,,,,,;;i;         Hobbies......: Coding, Musica
+ 8@8@@@1:i;;;;:,,,,,.,iL@@@@1:,,,......,,,:;:;i:
+C88@@@@@Li;:,,...,::;f8@@@@@0i:,,::,,,:::;;;;f1           ─── Contact ──────────────────────
+ @@8@@@@@@80CLfffLCG8@@@@@@@8Gi:,..,,::;;;:itC            Email .......: tua@email.com
+ 0@@@@@@@@@@@@@@@@@@@@@@@@@@8880Lt1i;iii1tCLft            GitHub ......: github.com/TUO-USER
+   C@@@@@@@@@@@@@@@@@@@@@@@@@8@@@@@@@88@@@@C1             LinkedIn ....: /in/tuo-profilo
+   t@@@@@@@@@@@@@@@@88@@@@@@888@@@@@@@@@@88f
+    @@@@@@@@@@@@@@@@@@@@@80GG08@@@@@@@@@8L                ─── GitHub Stats ─────────────────
+    C@@@@@@@@@88@@@@@@@8@808@@@@@@@@@@@8f                 Repos .......: XX   Stars: XX
+     8@@@@@@@808@@@@@@88@@@@@@@8@@@@@@@C                  Commits .....: X,XXX
+     1@@@@@@@@@@@@@@@888888800GC888@@@C        ...,:
+      88@@@@@@@@@@@@@@@@8800008@@8@@8C,,,,:::,,,,,..
+      @@8@@@@@@@@@@@8GG00888@@@@@8@8L,.::,..,,,,;iii1
+      8@808888@@@@@@@@8088@@@@@80CCL..:;i1;,.,:;itfLLL
+      8@@@0088@@@@@@@@@@@@@@@@@GffC1..,:;i111ttffffftt
+      8@@@@8GC08@@@@@@@@@@@@@0CtfCf.,:i11111111ttttttf
+```
+
+<div align="center">
+
+
 Laurea magistrale in Ingegneria Informatica e dell’Automazione al Politecnico delle Marche (Ancona). Lavoro con dati e immagini, spesso accompagnati dall' intelligenza artificiale, machine learning e deep learning, cercato di capire cosa siano davvero tali discipline. 
 
 
