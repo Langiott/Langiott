@@ -7,9 +7,54 @@
   </span>
 </h2>
 
+</div>
+
+```text
+                             j/
+                          }(xuccx
+                     -[1}1]]][]?})|frnzJvfr
+                 -_-+]?~++_+-_+~+_<i+-]{(trv/
+               ?+iII+-><~<++~~~+_+<+-?+~<~_[j\
+            +>~<>_<~-_??__+<~_--~<<>+-~+-+++_[|r
+           -+!_++_-][[{}}}[}}[[}[?+~>><~<+_+_+_})
+         {_>>_]11}1|frxxxnnnxrtt/\(}?--_----___-])             tuonome@github
+        1_>>i}nvccczYJCCCJJCCJYXzvuuxft\|)1]_++?-]/            ─────────────────────────────────
+       1~><]tLOOOOwpwqwqqqqqqwmO00QLLLCUYXur\{--?])            OS ..........: Windows 11, Android
+      )+}|fYwdmmwwwwqqqdbddbhhhkdpqqqqwZO0LJXv/-][/            Uptime ......: 20+ anni
+      |tYOddbpkhkkhahkkbbkddbhhhkbdppqpwZ00QJUYt-[t            Location ....: Marche, Italia
+     1nUpWWM#*dLCJCCJLQZqbaahooakdddppddqZ0QJUUJf}t            IDE .........: VSCode
+     \Ca&&M*wcxuczXvnnuczzYq#M*o*oahkbdqdbpmOLUUX/j
+     xnvnrjf\\tt/fjrrxcYCLQb8B@8#OYCUunrxuzYJOJUXfx            Languages ...: Python, JavaScript
+    1f)|()|||)}1)?+~~-[{/vCJXUQQ0Uzcrfttt\/tfXJJJxx\           Real ........: Italiano, English
+  pmZZJ11/\){}]]}]?__?-__1(\//|()/(-~~++?{1(()(/rfjf
+ c0WM%%1{t\|}?_>!IIIIIll;1|/bWUt|[l;IIii<++-?]??-])(){         Hobbies .....: Coding, Musica
+ L*wCB$u?tt|)1}-~!llIlII-(\L*#C{)<IlI;IIlll!ii<+~~)1|/
+ pQZa$$Wf}){}[]?_~>>_ii?\zk#ohdu{}<<>>ilI!i>+?[)1[(/           ── Contact ──────────────────────
+YdmC*$@$BZx|}?-+<<~?{[|zpM#*ohp0j1_i_?__<+-?[{)({(u            Email .......: tua@email.com
+ #oZa8@$$$@*qQYzcczYLbhooo***hwCUf([+l!~_?}{1(1{/jY            GitHub ......: github.com/TUO-USER
+ J*akMWW$B@@B88&&8%%@$MoMWM#*adQY0OCuf({1)(|\fuUnxj            LinkedIn ....: /in/tuo-profilo
+   taM#M$$@B&W&&&WWM#@$$$@@%8&MaQQ*&&M*hpmOOOOqQuf
+    *a#@@$$%&&&WMMWMM#pdo8&8B&hmO0O*&8&8W*kqOOJQt              ── GitHub Stats ─────────────────
+    h8&B@BW&8&*k*&8&%MkkhMd00JcvzUCd&8&W#hpZQJr                Repos .......: XX    Stars: XX
+    /%&%BBoBBbOwwpb**Mab*aqQCzUQZwba*#WW*kqLJ                  Commits .....: X,XXX
+     Z8%B%%$8m0YvOao**hhmYQOOQQQOpdpbbbabqOQj
+      Z#88%$@kwpdkaqwbbbkddbdpqZ00XXO0Qww0Qt
+      uOb#&$8qkW$&8%#hppOQJYYXXXzzcJQCLZQQr             l]
+      XhJdMMkmdkM%8MWhdbbhdwO0CCLmabOQZCJt !i>~_----_--
+      rBpYZwOmmmh&@BWbOYvuvzXUCZpdbZJYCYt<i-}]>;;I!ii?\/tfr\
+       @%kJJ0QLq*WBB@@@B#k*akhohbwCXcunnII_1|/t1_>-[{|jxuuuu
+       W@@&OzJJmdoM##M&&W%8#*o#hpZYnrnY[;I<]{)\frjxnnnnnnxrr
+      |qB@@&bJvcJ0ppkdobbddqm0ZZYzrjuc/Ii?(tjjfftfffjjjjrrxx
+```
+
+<div align="center">
+
+![Profile views](https://komarev.com/ghpvc/?username=TUO-USER&color=blueviolet&style=flat)
+
+</div>
+
+
 Laurea magistrale in Ingegneria Informatica e dell’Automazione al Politecnico delle Marche (Ancona). Lavoro con dati e immagini, spesso accompagnati dall' intelligenza artificiale, machine learning e deep learning, cercato di capire cosa siano davvero tali discipline. 
-
-
 Inizialmente ho svolto studi di automazione e robotica, risolvendo equazioni differenziali di Laplace se stabili. Per poi cambiare interesse e dedicarmi ai modelli avanzati, alcuni predittivi, altri di classificazione, altri ancora basati sulle reti neurali artificiali. Quando non scrivo codice, penso allo spazio, ai buchi neri e a quanto sia meglio essere curiosi che intelligenti. 
 
 
