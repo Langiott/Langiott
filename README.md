@@ -43,6 +43,8 @@ Inizialmente ho svolto studi di automazione e robotica, risolvendo equazioni dif
 ## 🌐 Web Development
 
 <p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white"/>
   <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black"/>
   <img src="https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=white"/>
   <img src="https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white"/>
