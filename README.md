@@ -38,6 +38,9 @@ Inizialmente ho svolto studi di automazione e robotica, risolvendo equazioni dif
   <img src="https://img.shields.io/badge/OpenCV-5C3EE8?logo=opencv&logoColor=white"/>
   <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?logo=huggingface&logoColor=black"/>
   <img src="https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SciPy-8CAAE6?logo=scipy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Plotly-3F4F75?logo=plotly&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Astropy-FF5757?logo=astropy&logoColor=white"/>
 </p>
 
 ## 🌐 Web Development
@@ -111,9 +114,6 @@ Inizialmente ho svolto studi di automazione e robotica, risolvendo equazioni dif
   <img src="https://img.shields.io/badge/Qlik-009848?logo=qlik&logoColor=white"/>
   <img src="https://img.shields.io/badge/Tableau-E97627?logo=tableau&logoColor=white"/>
   <img src="https://img.shields.io/badge/Excel-217346?logo=microsoftexcel&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SciPy-8CAAE6?logo=scipy&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Plotly-3F4F75?logo=plotly&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Astropy-FF5757?logo=astropy&logoColor=white"/>
 </p>
 
 ## 📝 Documentation & Productivity
