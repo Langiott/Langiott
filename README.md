@@ -140,5 +140,10 @@ Inizialmente ho svolto studi di automazione e robotica, risolvendo equazioni dif
   <img src="https://img.shields.io/badge/DeepSeek-4D6BFE?logo=deepseek&logoColor=white"/>
   <img src="https://img.shields.io/badge/BERT-EE4C2C?logo=huggingface&logoColor=white"/>
   <img src="https://img.shields.io/badge/Rasa-5A17EE?logo=rasa&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GLM-4D6BFE?logo=zhipu&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Kilo%20Code-000000?logo=visualstudiocode&logoColor=white"/>
+  <img src="https://img.shields.io/badge/OpenClaw-FF6B35?logo=anthropic&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NotebookLM-1A73E8?logo=googlenotebooklm&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Ollama-000000?logo=ollama&logoColor=white"/>
 </p>
 Meglio curiosi che intelligente !
