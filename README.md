@@ -145,5 +145,7 @@ Inizialmente ho svolto studi di automazione e robotica, risolvendo equazioni dif
   <img src="https://img.shields.io/badge/OpenClaw-FF6B35?logo=anthropic&logoColor=white"/>
   <img src="https://img.shields.io/badge/NotebookLM-1A73E8?logo=googlenotebooklm&logoColor=white"/>
   <img src="https://img.shields.io/badge/Ollama-000000?logo=ollama&logoColor=white"/>
+  <img src="https://img.shields.io/badge/OpenCode-000000?logo=opencode&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Mimo-1DB954?logo=mimo&logoColor=white"/>
 </p>
 Meglio curiosi che intelligente !
