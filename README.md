@@ -111,6 +111,9 @@ Inizialmente ho svolto studi di automazione e robotica, risolvendo equazioni dif
   <img src="https://img.shields.io/badge/Qlik-009848?logo=qlik&logoColor=white"/>
   <img src="https://img.shields.io/badge/Tableau-E97627?logo=tableau&logoColor=white"/>
   <img src="https://img.shields.io/badge/Excel-217346?logo=microsoftexcel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SciPy-8CAAE6?logo=scipy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Plotly-3F4F75?logo=plotly&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Astropy-FF5757?logo=astropy&logoColor=white"/>
 </p>
 
 ## 📝 Documentation & Productivity
@@ -147,5 +150,7 @@ Inizialmente ho svolto studi di automazione e robotica, risolvendo equazioni dif
   <img src="https://img.shields.io/badge/Ollama-000000?logo=ollama&logoColor=white"/>
   <img src="https://img.shields.io/badge/OpenCode-000000?logo=opencode&logoColor=white"/>
   <img src="https://img.shields.io/badge/Mimo-1DB954?logo=mimo&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Gemini-8E75B2?logo=googlegemini&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Cursor-000000?logo=cursor&logoColor=white"/>
 </p>
 Meglio curiosi che intelligente !
