@@ -7,7 +7,7 @@
   </span>
 </h2>
 
-Laurea magistrale in Ingegneria Informatica e dell’Automazione al Politecnico delle Marche (Ancona). Lavoro con dati e immagini, spesso accompagnati dall'intelligenza artificiale, machine learning e deep learning, cercando di capire cosa siano davvero tali discipline. Inizialmente ho svolto studi di automazione e robotica, risolvendo equazioni differenziali di Laplace se stabili, per poi dedicare il mio interesse ai modelli avanzati (predittivi, di classificazione e reti neurali). Quando non scrivo codice, penso allo spazio, ai buchi neri e a quanto sia meglio essere curiosi che intelligenti.
+Laurea magistrale in Ingegneria Informatica e dell’Automazione al Politecnico delle Marche (Ancona). Lavoro con dati e immagini, spesso accompagnati dall'intelligenza artificiale, machine learning e deep learning, cercando di capire cosa siano davvero tali discipline. Inizialmente ho svolto studi di automazione e robotica, risolvendo equazioni differenziali di Laplace se stabili, per poi dedicare il mio interesse ai modelli avanzati (predittivi, di classificazione e reti neurali). Quando non scrivo codice, penso allo spazio, ai buchi neri e a quanto sia meglio essere curiosi che intelligenti. 
 
 
 | 💻 Programming Languages & Data | 🤖 AI Assistants & LLMs |
